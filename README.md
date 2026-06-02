@@ -34,5 +34,4 @@ I enjoy building systems and understanding how things work under the hood — fr
 ---
 
 ## 📄 Links
-- Resume: [your-resume-link]
 - LinkedIn: https://www.linkedin.com/in/tahmoores-nassaj
