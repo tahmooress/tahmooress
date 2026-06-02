@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Tahmoores 👋
 
-<!--
-**tahmooress/tahmooress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer who enjoys going down rabbit holes, trying to understand how things work under the hood.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About me
+Backend Software Engineer
+
+I enjoy building systems and understanding how things work under the hood — from software to systems and the ideas behind them.
+
+---
+
+## 🛠️ Tech
+Go (Golang), PostgreSQL, MySQL, Redis, Kafka, RabbitMQ, Docker, Kubernetes
+
+---
+
+## 📄 Links
+- Resume: [your-resume-link]
+- LinkedIn: [[your-linkedin-link](https://www.linkedin.com/in/tahmoores-nassaj)]
