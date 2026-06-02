@@ -18,4 +18,4 @@ Go (Golang), PostgreSQL, MySQL, Redis, Kafka, RabbitMQ, Docker, Kubernetes
 
 ## 📄 Links
 - Resume: [your-resume-link]
-- LinkedIn: [(https://www.linkedin.com/in/tahmoores-nassaj)]
+- LinkedIn: https://www.linkedin.com/in/tahmoores-nassaj
