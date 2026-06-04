@@ -17,7 +17,8 @@ I enjoy building systems and understanding how things work under the hood — fr
 ![Microservices](https://img.shields.io/badge/Microservices-005571?style=for-the-badge)
 ![Backend Engineering](https://img.shields.io/badge/Backend%20Engineering-1F8ACB?style=for-the-badge)
 ![System Design](https://img.shields.io/badge/System%20Design-FF6F00?style=for-the-badge)
-
+![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge)
+![HD Wallets](https://img.shields.io/badge/HD%20Wallets-BIP32%2F39%2F44-2E2E2E?style=for-the-badge)
 ---
 
 ## 🛠️ Tech Stack
