@@ -1,9 +1,5 @@
 # Hi, I'm Tahmoores 👋
 
-Software engineer who enjoys going down rabbit holes, trying to understand how things work under the hood.
-
----
-
 ## 🧠 About me
 Backend Software Engineer
 
